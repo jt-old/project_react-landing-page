@@ -3,7 +3,7 @@ import { CardGroup, Card, Container, Row, Col } from 'react-bootstrap'
 
 const Features = () => {
   return (
-    <Container fluid>
+    <Container fluid id='features'>
       <CardGroup className='m-4 p-5'>
         <Row xs={1} md={2} lg={4} className='g-4 d-flex justify-content-center'>
           <Col>
