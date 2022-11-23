@@ -12,7 +12,7 @@ export default function Quote() {
         <Container className='p-3 m-3'>
           <Card.Body>
             <blockquote className='blockquote mb-0'>
-              <p className='fs-2'>
+              <p className='fs-1 fst-italic'>
                 {' '}
                 This is an inspiring quote, or a testimonial from a customer.
                 Maybe it's just filling up space, or maybe people will actually

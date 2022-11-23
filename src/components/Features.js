@@ -4,10 +4,11 @@ import { CardGroup, Card, Container, Row, Col } from 'react-bootstrap'
 const Features = () => {
   return (
     <Container fluid id='features'>
-      <CardGroup className='m-4 p-5'>
+      <h2 className='mt-5 text-uppercase'>Features</h2>
+      <CardGroup className='m-4 p-5 mt-2'>
         <Row xs={1} md={2} lg={4} className='g-4 d-flex justify-content-center'>
           <Col>
-            <Card>
+            <Card border='light'>
               <Card.Img
                 variant='top'
                 width=''
@@ -24,7 +25,7 @@ const Features = () => {
             </Card>
           </Col>
           <Col>
-            <Card>
+            <Card border='light'>
               <Card.Img
                 variant='top'
                 width=''
@@ -41,7 +42,7 @@ const Features = () => {
             </Card>
           </Col>
           <Col>
-            <Card>
+            <Card border='light'>
               <Card.Img
                 variant='top'
                 width=''
@@ -58,7 +59,7 @@ const Features = () => {
             </Card>
           </Col>
           <Col>
-            <Card>
+            <Card border='light'>
               <Card.Img
                 variant='top'
                 width=''

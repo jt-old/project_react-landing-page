@@ -6,13 +6,14 @@ const Navigation = () => {
     <Navbar bg='dark' variant='dark'>
       <Container>
         <Navbar.Brand href='#home'>
-          <img
+          {/* <img
             src='/logo.svg'
             width='30'
             height='30'
             className='d-inline-block align-top'
             alt='Logo'
-          />
+          /> */}
+          Logo
         </Navbar.Brand>
         <Nav className='me-end'>
           <Nav.Link href='#home'>Home</Nav.Link>
