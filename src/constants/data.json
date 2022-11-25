@@ -1,7 +1,7 @@
 [
   {
     "id": "feature1",
-    "src": "https://picsum.photos/id/1/200",
+    "src": "https://picsum.photos/id/1/200?grayscale",
     "height": "",
     "width": "",
     "title": "Feature 1",
@@ -9,7 +9,7 @@
   },
   {
     "id": "feature2",
-    "src": "https://picsum.photos/id/3/200",
+    "src": "https://picsum.photos/id/3/200?grayscale",
     "height": "",
     "width": "",
     "title": "Feature 2",
@@ -17,7 +17,7 @@
   },
   {
     "id": "feature3",
-    "src": "https://picsum.photos/id/5/200",
+    "src": "https://picsum.photos/id/5/200?grayscale",
     "height": "",
     "width": "",
     "title": "Feature 3",
@@ -25,7 +25,7 @@
   },
   {
     "id": "feature4",
-    "src": "https://picsum.photos/id/7/200",
+    "src": "https://picsum.photos/id/7/200?grayscale",
     "height": "",
     "width": "",
     "title": "Feature 4",
