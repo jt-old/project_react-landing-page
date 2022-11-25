@@ -3,7 +3,7 @@ import { Container, Card, Button, Col, Row } from 'react-bootstrap'
 
 const Cta = () => {
   return (
-    <Container fluid>
+    <Container fluid className='py-5'>
       <Card className='text-center text-light m-5' bg='primary' border='light'>
         <Card.Body>
           <Row className='p-5 m-4'>

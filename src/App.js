@@ -10,7 +10,7 @@ import Contact from './components/Contact'
 
 function App() {
   return (
-    <Container fluid>
+    <Container fluid className='p-0'>
       <Navigation />
       <Showcase />
       <Features />

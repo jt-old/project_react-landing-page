@@ -5,3 +5,12 @@
 .quote-container {
   height: 40vh;
 }
+
+img,
+Image,
+.img,
+.image {
+  width: 100vw;
+  height: 600px;
+  object-fit: contain;
+}
