@@ -46,9 +46,9 @@ Landing page for a company built with React, styled with Bootstrap.
 
 [![Project Screen Shot][project-screenshot]][project-url] [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url]
 
-<!-- TODO: ADD LONG PROJECT DESCRIPTION -->
-
 <!-- LONG_PROJECT_DESCRIPTION -->
+
+This 'Landing Page' project is a responsive website designed for a fictional company. It was built using React and Bootstrap, and follows a design specification created in Figma. The project theoritically includes several pages, including a home page, about us page, and contact page. The home page features a full-width hero image, along with sections for product features, customer testimonials, and a call to action. Overall, the project showcases my ability to create a visually appealing and functional landing page website using modern web development tools.
 
 _I'd love to hear any feedback or just thoughts. Feel free to reach out at my contact info below. Cheers!_
 
