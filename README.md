@@ -52,8 +52,6 @@ This 'Landing Page' project is a responsive website designed for a fictional com
 
 _I'd love to hear any feedback or just thoughts. Feel free to reach out at my contact info below. Cheers!_
 
-<!-- TODO: UNCOMMENT APPLICABLE TECH -->
-
 ### Stack
 
 #### Frontend
